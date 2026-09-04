@@ -4,37 +4,48 @@ This repository functions as the centralized hub for my engineering projects, te
 
 ---
 
-### Core Domain Specialties
+## Core Domain Specialties
 
-* **Product Strategy & Design:** Product Management, UX Research, Interaction Design, and Radically Human Experience Frameworks.
-* **Software Engineering:** Frontend Web, Frontend Mobile Development, and Internet of Things (IoT) hardware/software routing.
-* **Backend Systems:** Distributed Architecture Systems (DAS), API Router Management, and NoSQL Database Design.
-* **Application Security:** Web API Boundary Audits, Input Sanitation Verification, JWT Integrity Tracking, and OWASP Top 10 Mitigation.
-* **Toolsets & Testing:** Burp Suite (Proxy, Target, Repeater, Intruder), QA Automation Frameworks, Git Workflows.
+- **Product Strategy & Design:** Product Management, UX Research, Interaction Design, and Radically Human Experience Frameworks.
+
+- **Software Engineering:** Frontend Web, Frontend Mobile Development, and Internet of Things (IoT) hardware/software routing.
+
+- **Backend Systems:** Distributed Architecture Systems (DAS), API Router Management, and NoSQL Database Design.
+
+- **Application Security:** Web API Boundary Audits, Input Sanitation Verification, JWT Integrity Tracking, and OWASP Top 10 Mitigation.
+
+- **Toolsets & Testing:** Burp Suite (Proxy, Target, Repeater, Intruder), QA Automation Frameworks, Git Workflows.
 
 ---
 
-### Profile Analytics and Language Breakdown
+## Profile Analytics and Language Breakdown
 
 <p align="center">
-  <img src="https://shion.dev" width="48%" alt="GitHub Profile Stats" />
-  <img src="https://shion.dev" width="48%" alt="Language Percentages Chart" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lira-gabriella&show_icons=true&theme=radical&hide_border=true" alt="GitHub Profile Stats" height="180"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lira-gabriella&layout=compact&theme=radical&hide_border=true" alt="Language Percentages Chart" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://herokuapp.com" width="97%" alt="Contribution Streak Analytics" />
+  <img src="https://streak-stats.demolab.com?user=lira-gabriella&theme=radical&hide_border=true" alt="Contribution Streak Analytics"/>
 </p>
 
 ---
 
-### Highlighted Project Repositories
+## Highlighted Project Repositories
 
-* **[Security Infrastructure Audit: E-Commerce API Baseline](https://github.com)**
-  * Technical assessment notes detailing traffic manipulation, input data-type validation checks, and cryptographic token resilience testing using local proxy configurations.
-* **[JavaScript Quality Assurance Lab](https://github.com)**
-  * Source code registry evaluating custom script test blocks, execution logic flows, and simple software test suites.
+### Security Infrastructure Audit: E-Commerce API Baseline
+
+Technical assessment notes detailing traffic manipulation, input data-type validation checks, and cryptographic token resilience testing using local proxy configurations.
+
+### JavaScript Quality Assurance Lab
+
+Source code registry evaluating custom script test blocks, execution logic flows, and simple software test suites.
 
 ---
 
-### Focus Objectives
-I focus on building functional systems where highly optimized technical backends meet clean, intuitive user interfaces. I am actively looking for software engineering, product design, or technical project management tracks where I can contribute to cross-functional product development cycles.
+## Focus Objectives
+
+I focus on building functional systems where highly optimized technical backends meet clean, intuitive user interfaces.
+
+I am actively looking for software engineering, product design, or technical project management tracks where I can contribute to cross-functional product development cycles.
