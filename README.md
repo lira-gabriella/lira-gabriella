@@ -1,14 +1,14 @@
-# Security Portfolio: Ineza Lira Gabriella
+# Ineza Lira Gabriella
 
-This repository functions as the centralized hub for my engineering projects, technical research notes, and deployment reviews. My focus spans the full product lifecycle, bridging the gaps between frontend web/mobile interfaces, Distributed Architecture Systems (DAS), IoT integrations, human-centric product design, and application security tracking.
+System Engineer and Product Designer focused on bridging the gaps between frontend web/mobile architecture, Distributed Architecture Systems (DAS), IoT data integrations, human-centric interface design, and application security tracking.
 
 ---
 
-### Core Domain Specialties
+### Core Domain Competencies
 
 * **Product Strategy & Design:** Product Management, UX Research, Interaction Design, and Radically Human Experience Frameworks.
 * **Software Engineering:** Frontend Web, Frontend Mobile Development, and Internet of Things (IoT) hardware/software routing.
-* **Backend Systems:** Distributed Architecture Systems (DAS), API Router Management, and NoSQL Database Design.
+* **Backend Frameworks:** Distributed Architecture Systems (DAS), API Router Management, and NoSQL Database Design.
 * **Application Security:** Web API Boundary Audits, Input Sanitation Verification, JWT Integrity Tracking, and OWASP Top 10 Mitigation.
 * **Toolsets & Testing:** Burp Suite (Proxy, Target, Repeater, Intruder), QA Automation Frameworks, Git Workflows.
 
@@ -17,17 +17,17 @@ This repository functions as the centralized hub for my engineering projects, te
 ### Profile Analytics and Language Breakdown
 
 <p align="center">
-  <img src="https://vercel.app" width="48%" alt="GitHub Profile Stats" />
-  <img src="https://vercel.app" width="48%" alt="Language Percentages Chart" />
+  <img src="https://vercel.app" width="48%" />
+  <img src="https://vercel.app" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://herokuapp.com" width="97%" alt="Contribution Streak Analytics" />
+  <img src="https://herokuapp.com" width="97%" />
 </p>
 
 ---
 
-### Highlighted Project Repositories
+### Key Repositories
 
 * **[Security Infrastructure Audit: E-Commerce API Baseline](https://github.com)**
   * Technical assessment notes detailing traffic manipulation, input data-type validation checks, and cryptographic token resilience testing using local proxy configurations.
@@ -36,5 +36,5 @@ This repository functions as the centralized hub for my engineering projects, te
 
 ---
 
-### Focus Objectives
-I focus on building functional systems where highly optimized technical backends meet clean, intuitive user interfaces. I am actively looking for software engineering, product design, or technical project management tracks where I can contribute to cross-functional product development cycles.
+### Operational Focus
+I focus on engineering functional environments where optimized backends meet clean, user-centric interface strategies. I am open to cross-functional tracks across Frontend Development, UI/UX Engineering, Product Management, or Application Security paths.
