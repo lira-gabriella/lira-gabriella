@@ -17,13 +17,15 @@ System Engineer and Product Designer focused on bridging the gaps between fronte
 ### Profile Analytics and Language Breakdown
 
 <p align="center">
-  <img src="https://vercel.app" width="48%" />
-  <img src="https://vercel.app" width="48%" />
-</p>
+  <img src="https://vercel.app" width="48%" alt="GitHub Metrics" />
+  <img src="https://vercel.app" width="48%" alt="Language Breakdown" />
+</div>
 
-<p align="center">
-  <img src="https://herokuapp.com" width="97%" />
-</p>
+<br />
+
+<div align="center">
+  <img src="https://herokuapp.com" width="97%" alt="Contribution Streak" />
+</div>
 
 ---
 
