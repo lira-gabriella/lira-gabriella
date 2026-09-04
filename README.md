@@ -21,13 +21,13 @@ This repository functions as the centralized hub for my engineering projects, te
 ## Profile Analytics and Language Breakdown
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lira-gabriella&show_icons=true&theme=radical&hide_border=true" alt="GitHub Profile Stats" height="180"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lira-gabriella&layout=compact&theme=radical&hide_border=true" alt="Language Percentages Chart" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lira-gabriella&show_icons=true&theme=radical&hide_border=true" alt="GitHub Profile Stats" height="180">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lira-gabriella&layout=compact&theme=radical&hide_border=true" alt="Language Percentages Chart" height="180">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=lira-gabriella&theme=radical&hide_border=true" alt="Contribution Streak Analytics"/>
+  <img src="https://streak-stats.demolab.com?user=lira-gabriella&theme=radical&hide_border=true" alt="Contribution Streak Analytics">
 </p>
 
 ---
