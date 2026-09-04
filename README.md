@@ -1,6 +1,6 @@
 # Security Portfolio: Ineza Lira Gabriella
 
-This repository functions as the centralized hub for my engineering projects, technical research notes, and live metrics. My background spans the full product lifecycle, bridging the gaps between frontend web/mobile interfaces, Distributed Architecture Systems (DAS), IoT integrations, human-centric product design, and application security tracking.
+This repository functions as the centralized hub for my engineering projects, technical research notes, and deployment reviews. My focus spans the full product lifecycle, bridging the gaps between frontend web/mobile interfaces, Distributed Architecture Systems (DAS), IoT integrations, human-centric product design, and application security tracking.
 
 ---
 
@@ -16,12 +16,10 @@ This repository functions as the centralized hub for my engineering projects, te
 
 ### Profile Analytics and Language Breakdown
 
-
 <p align="center">
   <img src="https://vercel.app" width="48%" alt="GitHub Profile Stats" />
   <img src="https://vercel.app" width="48%" alt="Language Percentages Chart" />
 </p>
-
 
 <p align="center">
   <img src="https://herokuapp.com" width="97%" alt="Contribution Streak Analytics" />
