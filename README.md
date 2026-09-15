@@ -80,7 +80,7 @@
   </tr>
 </table>
 
-<!-- ================== 2. VISITOR COUNTER + SOCIAL BADGES ================== -->
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lira-gabriella&label=Profile+Views&style=flat&color=brightgreen"
        alt="Visitor counter" height="20"/>
