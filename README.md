@@ -46,8 +46,3 @@
        alt="Top Languages by Commit Density" width="48%"/>
 </p>
 
-<!-- ================= 6. GAMIFIED ACHIEVEMENT TROPHY ROW ================= -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lira-gabriella&theme=tokyonight&no-frame=false&margin-w=10&margin-h=10&column=7"
-       alt="GitHub Profile Trophies" width="100%"/>
-</p>
