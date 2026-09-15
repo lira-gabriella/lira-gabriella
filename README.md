@@ -1,21 +1,4 @@
 
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub Contribution Activity Graph" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub System Metrics" width="48%"/>
-  <img src="https://herokuapp.com" alt="Hourly Commit Habits" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://vercel.app" alt="Top Languages by Repository Count" width="48%"/>
-  <img src="https://vercel.app" alt="Top Languages by Commit Density" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub Profile Trophies" width="100%"/>
-</p>
 
 
 <p align="center">
