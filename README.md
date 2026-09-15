@@ -1,52 +1,23 @@
 
-
-<!-- ================== 2. VISITOR COUNTER + SOCIAL BADGES ================== -->
-<p align="center">
-  <img src="https://komarev.com" alt="Visitor counter" height="20"/>
-</p>
-
-<p align="center">
-  <a href="mailto:liragabriella@gmail.com">
-    <img alt="Gmail" src="https://shields.io"/>
-  </a>
-  <a href="https://linkedin.com">
-    <img alt="LinkedIn" src="https://shields.io"/>
-  </a>
-  <a href="https://github.com/lira-gabriella">
-    <img alt="GitHub" src="https://shields.io"/>
-  </a>
-  <a href="https://twitter.com">
-    <img alt="X" src="https://shields.io"/>
-  </a>
-  <a href="https://github.com">
-    <img alt="Portfolio" src="https://shields.io"/>
-  </a>
-</p>
-
-<!-- ================= 3. RECTANGULAR ACTIVITY / COMMIT MAP ================= -->
 <p align="center">
   <img src="https://vercel.app" alt="GitHub Contribution Activity Graph" width="100%"/>
 </p>
 
-<!-- ===== 4. SYSTEM METRICS & COMMITS MATRIX (side-by-side) ===== -->
 <p align="center">
   <img src="https://vercel.app" alt="GitHub System Metrics" width="48%"/>
   <img src="https://herokuapp.com" alt="Hourly Commit Habits" width="48%"/>
 </p>
 
-<!-- ===== 5. DUAL-COLUMN LANGUAGE RADAR (side-by-side donuts) ===== -->
 <p align="center">
   <img src="https://vercel.app" alt="Top Languages by Repository Count" width="48%"/>
   <img src="https://vercel.app" alt="Top Languages by Commit Density" width="48%"/>
 </p>
 
-<!-- ================= 6. GAMIFIED ACHIEVEMENT TROPHY ROW ================= -->
 <p align="center">
   <img src="https://vercel.app" alt="GitHub Profile Trophies" width="100%"/>
 </p>
 
 
-<!-- ================== 2. VISITOR COUNTER + SOCIAL BADGES ================== -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lira-gabriella&label=Profile+Views&style=flat&color=brightgreen"
        alt="Visitor counter" height="20"/>
@@ -69,14 +40,12 @@
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-lira--gabriella-0e7b84?style=flat&logo=vercel&logoColor=white&labelColor=0d1117"/>
   </a>
 </p>
-
-<!-- ================= 3. RECTANGULAR ACTIVITY / COMMIT MAP ================= -->
 <p align="center">
   <img src="https://github-activity-chart.vercel.app/graph?username=lira-gabriella&theme=tokyo-night&hide_border=true&area=true&area_color=79dac8&color=70a5fd&line=70a5fd&bg_color=0d1117&title_color=7aa2f7&radius=8"
        alt="GitHub Contribution Activity Graph" width="100%"/>
 </p>
 
-<!-- ===== 4. SYSTEM METRICS & COMMITS MATRIX (side-by-side, 48% each) ===== -->
+
 <p align="center">
   <img src="https://ghstats.dev/api/card?username=lira-gabriella&theme=tokyonight&include_all_commits=true"
        alt="GitHub System Metrics" width="48%"/>
@@ -84,7 +53,6 @@
        alt="Hourly Commit Habits" width="48%"/>
 </p>
 
-<!-- ===== 5. DUAL-COLUMN LANGUAGE RADAR (side-by-side donuts, 48% each) ===== -->
 <p align="center">
   <img src="https://jeskei-github-stats.vercel.app/api/top-langs?username=lira-gabriella&layout=donut&langs_count=10&size_weight=0&count_weight=1&theme=tokyonight&hide_border=true"
        alt="Top Languages by Repository Count" width="48%"/>
@@ -92,7 +60,6 @@
        alt="Top Languages by Commit Density" width="48%"/>
 </p>
 
-<!-- ================= 6. GAMIFIED ACHIEVEMENT TROPHY ROW ================= -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lira-gabriella&theme=tokyonight&no-frame=false&margin-w=10&margin-h=10&column=7"
        alt="GitHub Profile Trophies" width="100%"/>
