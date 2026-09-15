@@ -3,8 +3,8 @@
   <tr>
     <td style="width:52%; vertical-align:top; border:none; padding:0 8px 0 0;">
       <div align="left">
-        ### Hey Everyone, I'm Gabriella 👋
-        ## 🛡️ Welcome to My Secure Tech Universe!
+        <h3 style="margin:0; padding:0;">Hey Everyone, I'm Gabriella 👋</h3>
+        <h2 style="margin-top:5px; padding:0;">🛡️ Welcome to My Secure Tech Universe!</h2>
 
         <ul style="margin-top:10px; line-height:1.7;">
           <li>🔒 Architecting secure systems and auditing applications.</li>
@@ -15,14 +15,12 @@
         </ul>
         <br>
         <a href="https://github.com/lira-gabriella" target="_blank">
-          <img alt="GitHub: lira-gabriela" src="https://img.shields.io/badge/lira--gabriella-Open Source-181717?style=flat&labelColor=0d1117&color=20262e&logo=github&logoColor=white"/>
+          <img alt="GitHub: lira-gabriella" src="https://img.shields.io/badge/lira--gabriella-Open Source-181717?style=flat&labelColor=0d1117&color=20262e&logo=github&logoColor=white"/>
         </a>
       </div>
     </td>
     <td style="width:48%; vertical-align:middle; border:none; text-align:center;" align="center">
-      <svg width="250" height="170" viewBox="0 0 250 170" role="img"
-           aria-label="Vector illustration of a remote developer working at a desk"
-           xmlns="http://www.w3.org/2000/svg">
+      <svg width="250" height="170" viewBox="0 0 250 170" role="img" aria-label="Vector illustration of a remote developer working at a desk" xmlns="http://www.w3.org/2000/svg">
         <defs>
           <linearGradient id="panelGrad" x1="0" y1="0" x2="0" y2="1">
             <stop offset="0%" stop-color="#0d1117"/>
@@ -33,22 +31,17 @@
             <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
           </filter>
         </defs>
-        <rect x="0.5" y="0.5" width="249" height="169" rx="18" ry="18"
-              fill="url(#panelGrad)" stroke="#383e5a" stroke-width="1"/>
+        <rect x="0.5" y="0.5" width="249" height="169" rx="18" ry="18" fill="url(#panelGrad)" stroke="#383e5a" stroke-width="1"/>
         <!-- Desk -->
         <rect x="0" y="122" width="250" height="48" fill="#16171c" rx="0 0 18 18"/>
         <!-- Laptop stand -->
         <rect x="120" y="94" width="60" height="6" rx="3" fill="#383e5a"/>
         <!-- Laptop screen -->
-        <rect x="114" y="54" width="72" height="44" rx="7" ry="7"
-              fill="#0d1117" stroke="#70a5fd" stroke-width="2"/>
+        <rect x="114" y="54" width="72" height="44" rx="7" ry="7" fill="#0d1117" stroke="#70a5fd" stroke-width="2"/>
         <!-- Code on the screen -->
-        <text x="122" y="72" font-family="ui-monospace,SFMono-Regular,Menlo,monospace"
-              font-size="7.5" fill="#7aa2f7">{"}"}</text>
-        <text x="122" y="81" font-family="ui-monospace,SFMono-Regular,Menlo,monospace"
-              font-size="6.2" fill="#565f89">return secureApp();</text>
-        <text x="122" y="90" font-family="ui-monospace,SFMono-Regular,Menlo,monospace"
-              font-size="6.2" fill="#565f89">audit.log();</text>
+        <text x="122" y="72" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="7.5" fill="#7aa2f7">{"}"}</text>
+        <text x="122" y="81" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.2" fill="#565f89">return secureApp();</text>
+        <text x="122" y="90" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="6.2" fill="#565f89">audit.log();</text>
         <!-- Keyboard -->
         <rect x="122" y="98" width="46" height="10" rx="2" fill="#383e5a"/>
         <rect x="128" y="100" width="6" height="6" fill="#44475a" rx="1"/>
@@ -79,6 +72,52 @@
     </td>
   </tr>
 </table>
+
+<!-- ================== 2. VISITOR COUNTER + SOCIAL BADGES ================== -->
+<p align="center">
+  <img src="https://komarev.com" alt="Visitor counter" height="20"/>
+</p>
+
+<p align="center">
+  <a href="mailto:liragabriella@gmail.com">
+    <img alt="Gmail" src="https://shields.io"/>
+  </a>
+  <a href="https://linkedin.com">
+    <img alt="LinkedIn" src="https://shields.io"/>
+  </a>
+  <a href="https://github.com/lira-gabriella">
+    <img alt="GitHub" src="https://shields.io"/>
+  </a>
+  <a href="https://twitter.com">
+    <img alt="X" src="https://shields.io"/>
+  </a>
+  <a href="https://github.com">
+    <img alt="Portfolio" src="https://shields.io"/>
+  </a>
+</p>
+
+<!-- ================= 3. RECTANGULAR ACTIVITY / COMMIT MAP ================= -->
+<p align="center">
+  <img src="https://vercel.app" alt="GitHub Contribution Activity Graph" width="100%"/>
+</p>
+
+<!-- ===== 4. SYSTEM METRICS & COMMITS MATRIX (side-by-side) ===== -->
+<p align="center">
+  <img src="https://vercel.app" alt="GitHub System Metrics" width="48%"/>
+  <img src="https://herokuapp.com" alt="Hourly Commit Habits" width="48%"/>
+</p>
+
+<!-- ===== 5. DUAL-COLUMN LANGUAGE RADAR (side-by-side donuts) ===== -->
+<p align="center">
+  <img src="https://vercel.app" alt="Top Languages by Repository Count" width="48%"/>
+  <img src="https://vercel.app" alt="Top Languages by Commit Density" width="48%"/>
+</p>
+
+<!-- ================= 6. GAMIFIED ACHIEVEMENT TROPHY ROW ================= -->
+<p align="center">
+  <img src="https://vercel.app" alt="GitHub Profile Trophies" width="100%"/>
+</p>
+
 
 <!-- ================== 2. VISITOR COUNTER + SOCIAL BADGES ================== -->
 <p align="center">
