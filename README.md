@@ -1,79 +1,51 @@
-<div align="center">
+<h3 align="center">Hey Everyone, I'm Gabriella 👋</h3>
 
-# Ineza Lira Gabriella
+<h2 align="center"><strong>💻 Welcome to My Secure Tech Ecosystem</strong></h2>
 
-### Cybersecurity & Application Security · Internet of Things & Automation · Full-Stack Web & Mobile Architecture · Product Design & UX Research
-
-**GitHub:** `lira-gabriella`
-
-</div>
-
-<div align="center">
-
-## Analytics Overview
+<p align="center">
+  <strong>Full-Stack Engineering · Application Security · IoT Automation · UX Research</strong>
+</p>
 
 <table role="presentation">
   <tr>
-    <td align="center" width="50%">
-      <strong>Top Languages by Repo</strong><br /><br />
-      <img src="https://vercel.app" width="48%" />
+    <td valign="top" width="55%">
+      <h3>Technical Focus</h3>
+      <ul>
+        <li><strong>Web &amp; Mobile Engineering</strong> — Component-driven interfaces, scalable architecture, and cross-platform product delivery.</li>
+        <li><strong>Application Security</strong> — Web API boundary auditing, input sanitization, token verification, parameter-tampering analysis, and OWASP mitigation tracking with Burp Suite.</li>
+        <li><strong>IoT &amp; Automation</strong> — Edge microcontroller configuration, multi-sensor deployment, embedded telemetry scripting, and operational data collection.</li>
+        <li><strong>UX Research &amp; Product Design</strong> — End-to-end user flows, research synthesis, interaction design, and high-fidelity design systems in Figma.</li>
+        <li><strong>Machine Learning Metrics</strong> — Foundational algorithms for parsing, classifying, and extracting insight from operational records.</li>
+      </ul>
     </td>
-    <td align="center" width="50%">
-      <strong>Overall Profile Stats</strong><br /><br />
-      <img src="https://vercel.app" width="48%" />
+    <td align="center" valign="middle" width="45%">
+      <img src="https://vercel.app" width="100%" alt="Tech Workspace Illustration" />
     </td>
   </tr>
 </table>
 
-</div>
-
-## Metrics Activity Overview
-
-<p align="center"><img src="https://herokuapp.com" width="98%" /></p>
-
-## Technical Focus & Workflow
-
-<table role="presentation">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Cybersecurity &amp; Application Security</h3>
-      <p>
-        Web API boundary auditing, input sanitization verification, parameter
-        tampering analysis, proxy manipulation, and OWASP Top 10 mitigation
-        tracking with Burp Suite.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Internet of Things &amp; Automation</h3>
-      <p>
-        Edge microcontroller configuration, multi-sensor array deployment, and
-        embedded telemetry scripting.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Full-Stack Web &amp; Mobile Architecture</h3>
-      <p>
-        Component-driven web interfaces built with React and JavaScript,
-        native/cross-platform mobile systems, and foundational machine learning
-        script execution.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Product Design &amp; UX Research</h3>
-      <p>
-        End-to-end user flows, UX research methodologies, interaction patterns,
-        and high-fidelity design systems constructed inside Figma.
-      </p>
-    </td>
-  </tr>
-</table>
-
-## Connect With Me
+<h2 align="center"><strong>Connect With Me</strong></h2>
 
 <p align="center">
   <a href="https://linkedin.com"><img src="https://shields.io" /></a>
   <a href="mailto:lira.gabriella@gmail.com"><img src="https://shields.io" /></a>
   <a href="https://github.com"><img src="https://shields.io" /></a>
+</p>
+
+<h2 align="center"><strong>Dual-Column Language Radar &amp; Logs</strong></h2>
+
+<h3 align="center">Top Languages by Repo &amp; Top Languages by Commit</h3>
+
+<p align="center">
+  <img src="https://vercel.app" width="48%" alt="Top Languages by Repo" />
+  <img src="https://vercel.app" width="48%" alt="Top Languages by Commit" />
+</p>
+
+<h2 align="center"><strong>System Metrics &amp; Commit Analytics</strong></h2>
+
+<h3 align="center">Overall Developer Stats &amp; Commit Habits</h3>
+
+<p align="center">
+  <img src="https://vercel.app" width="48%" alt="Overall Developer Stats" />
+  <img src="https://herokuapp.com" width="48%" alt="Commit Activity Graph" />
 </p>
