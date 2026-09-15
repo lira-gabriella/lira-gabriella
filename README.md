@@ -1,110 +1,99 @@
-<div align="center">
-
-# Ineza Lira Gabriella
-
-### Cybersecurity-minded Full-Stack Engineer
-
-**GitHub:** [@lira-gabriella](https://github.com/lira-gabriella)
-
-</div>
-
-<div align="center">
-
-## Analytics Overview
-
-<table role="presentation">
-  <tr>
-    <td align="center" width="50%">
-      <strong>Top Languages by Repo</strong><br /><br />
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lira-gabriella&amp;theme=transparent&amp;v=20260915"
-        width="48%"
-        alt="Top languages by repository donut chart"
-      />
-    </td>
-    <td align="center" width="50%">
-      <strong>Overall Profile Stats</strong><br /><br />
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lira-gabriella&amp;theme=transparent&amp;v=20260915"
-        width="48%"
-        alt="Overall GitHub profile statistics"
-      />
-    </td>
-  </tr>
-</table>
-
-## Metrics Activity Overview
-
 <p align="center">
-  <img
-    src="https://ghchart.rshah.org/lira-gabriella?v=20260915"
-    width="98%"
-    alt="GitHub activity overview"
-  />
+  <b>GitHub: <a href="https://github.com">@lira-gabriella</a></b>
 </p>
 
-</div>
+<h1 align="center"> Hey Everyone, I'm Gabriella</h1>
+<h2 align="center"> Welcome to My GitHub Universe!</h2>
 
-## Technical Focus &amp; Workflow
-
-<table role="presentation">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3>Cybersecurity &amp; Application Security</h3>
-      <p>
-        Web API boundary auditing, input sanitization verification, parameter
-        tampering analysis, proxy manipulation, and OWASP Top 10 mitigation
-        tracking with Burp Suite.
+    <td valign="top" width="55%">
+      <br />
+      <ul>
+        <li>💻 <b>Focus:</b> Application Security & Web API boundary auditing.</li>
+        <li>⚙️ <b>IoT Automation:</b> Configuring edge hardware & telemetry scripting.</li>
+        <li>📱 <b>Mobile & Web:</b> Component-driven React apps & mobile systems.</li>
+        <li>🛠️ <b>UX Frameworks:</b> Conducting UX research & high-fidelity Figma workflows.</li>
+        <li>📊 <b>Intelligence:</b> Implementing foundational Machine Learning algorithms.</li>
+      </ul>
+      <br />
+      <p align="left">
+        <img src="https://shields.io" alt="visitors" />
+      </p>
+      <p align="left">
+        <a href="mailto:lira.gabriella@gmail.com"><img src="https://shields.io" /></a>
+        <a href="https://linkedin.com"><img src="https://shields.io" /></a>
+        <a href="https://github.com"><img src="https://shields.io" /></a>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>Internet of Things &amp; Automation</h3>
-      <p>
-        Edge microcontroller configuration, multi-sensor array deployment, and
-        embedded telemetry scripting.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Full-Stack Web &amp; Mobile Architecture</h3>
-      <p>
-        Component-driven web interfaces built with React and JavaScript,
-        native/cross-platform mobile systems, and foundational machine learning
-        script execution.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Product Design &amp; UX Research</h3>
-      <p>
-        End-to-end user flows, UX research methodologies, interaction patterns,
-        and high-fidelity design systems constructed inside Figma.
-      </p>
+    <td valign="top" width="45%" align="right">
+      <br />
+      <img src="https://vercel.app" width="95%" alt="Developer Illustration" />
     </td>
   </tr>
 </table>
 
-## Connect With Me
+---
 
+<h3 align="center">📊 Analytics Overview</h3>
+<table align="center" width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <p><b>Top Languages by Repo</b></p>
+      <img src="https://vercel.app" width="95%" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <p><b>Overall Profile Stats</b></p>
+      <img src="https://vercel.app" width="95%" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<h3 align="center">Metrics Activity Overview</h3>
 <p align="center">
-  <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white&amp;v=20260915"
-      alt="LinkedIn"
-    />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:lira.gabriella@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-lira.gabriella%40gmail.com-critical?style=flat-square&amp;logo=gmail&amp;logoColor=white&amp;v=20260915"
-      alt="Email"
-    />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/lira-gabriella" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&amp;logo=github&amp;logoColor=white&amp;v=20260915"
-      alt="GitHub"
-    />
-  </a>
+  <img src="https://vercel.app" width="100%" alt="Gabriella's Contribution Graph" />
+</p>
+
+---
+
+<h3 align="center">Technical Focus & Workflow</h3>
+<table align="center" width="100%" border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <td valign="top" width="50%" style="border: 1px solid #30363d; border-radius: 6px;">
+      <h4>🔒 Cybersecurity & Application Security</h4>
+      <p>Web API boundary auditing, input sanitization verification, parameter tampering analysis, proxy manipulation, and OWASP Top 10 mitigation tracking with Burp Suite.</p>
+    </td>
+    <td valign="top" width="50%" style="border: 1px solid #30363d; border-radius: 6px;">
+      <h4>🌐 Internet of Things & Automation</h4>
+      <p>Edge microcontroller configuration, multi-sensor array deployment, and embedded telemetry scripting.</p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%" style="border: 1px solid #30363d; border-radius: 6px;">
+      <h4>📱 Full-Stack Web & Mobile Architecture</h4>
+      <p>Component-driven web interfaces built with React and JavaScript, native/cross-platform mobile systems, and foundational machine learning script execution.</p>
+    </td>
+    <td valign="top" width="50%" style="border: 1px solid #30363d; border-radius: 6px;">
+      <h4>🎨 Product Design & UX Research</h4>
+      <p>End-to-end user flows, UX research methodologies, interaction patterns, and high-fidelity design systems constructed inside Figma.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h3 align="center">Connect With Me</h3>
+<p align="center">
+  <a href="https://linkedin.com"><img src="https://shields.io" /></a>
+  <a href="mailto:lira.gabriella@gmail.com"><img src="https://shields.io" /></a>
+  <a href="https://github.com"><img src="https://shields.io" /></a>
+</p>
+
+---
+
+<h3 align="center">🏆 Profile Achievements & Trophies</h3>
+<p align="center">
+  <img src="https://vercel.app" width="100%" alt="Profile Trophies" />
 </p>
